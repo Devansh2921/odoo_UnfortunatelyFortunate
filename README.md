@@ -65,7 +65,7 @@ CLOUDINARY_API_SECRET=
 
 ```
 
-## ##📂 Project Structure
+#### 📂 Project Structure
 ```
 .
 ├── frontend/         # React frontend
@@ -84,7 +84,7 @@ CLOUDINARY_API_SECRET=
 ```
 
 
-##🔒 Security & Performance
+## 🔒 Security & Performance
 
 OTP verification during signup ensures only valid users
 
@@ -96,4 +96,4 @@ CORS configured for cross-origin access
 
 API rate limiting for preventing abuse
 
-Redis caching to optimize performance
+Built by Team Unfortunately Fortunate**
