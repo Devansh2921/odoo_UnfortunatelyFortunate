@@ -82,3 +82,18 @@ CLOUDINARY_API_SECRET=
 │
 └── README.md
 ```
+
+
+##🔒 Security & Performance
+
+OTP verification during signup ensures only valid users
+
+JWT authentication for secure session management
+
+bcrypt hashing for passwords
+
+CORS configured for cross-origin access
+
+API rate limiting for preventing abuse
+
+Redis caching to optimize performance
