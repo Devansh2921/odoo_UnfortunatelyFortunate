@@ -63,7 +63,7 @@ CLOUDINARY_CLOUD_NAME=
 CLOUDINARY_API_KEY=
 CLOUDINARY_API_SECRET=
 
-📂 Project Structure
+##📂 Project Structure
 .
 ├── frontend/         # React frontend
 │   ├── src/
