@@ -62,3 +62,20 @@ JWT_KEY=
 CLOUDINARY_CLOUD_NAME=
 CLOUDINARY_API_KEY=
 CLOUDINARY_API_SECRET=
+
+📂 Project Structure
+.
+├── frontend/         # React frontend
+│   ├── src/
+│   └── package.json
+│
+├── backend/          # Node.js backend
+│   ├── src/
+│   ├── models/       # Mongoose schemas (Users, Products, Carts, Orders)
+│   ├── routes/       # API routes
+│   ├── controllers/  # Business logic
+│   ├── utils/        # Helpers (email, jwt, cloudinary)
+│   └── package.json
+│
+└── README.md
+
