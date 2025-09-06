@@ -96,4 +96,4 @@ CORS configured for cross-origin access
 
 API rate limiting for preventing abuse
 
-## Built by Team Unfortunately Fortunate**
+## Built by Team Unfortunately Fortunate
