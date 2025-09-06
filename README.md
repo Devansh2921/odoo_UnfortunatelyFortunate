@@ -66,6 +66,7 @@ CLOUDINARY_API_SECRET=
 ```
 
 ## ##📂 Project Structure
+```
 .
 ├── frontend/         # React frontend
 │   ├── src/
@@ -80,4 +81,4 @@ CLOUDINARY_API_SECRET=
 │   └── package.json
 │
 └── README.md
-
+```
